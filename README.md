@@ -2,7 +2,7 @@
 ## **Entregas**
 
  - ***Primera entrega de tu Proyecto final* (Entrega 4)**
-	- Creacion de tablas.sql
+	- Idea+Ferrari.sql
 
  - ***Descripción de tablas* (Entrega 3)**
 	- Diagrama-Ferrari.pdf
