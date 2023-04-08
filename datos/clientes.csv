@@ -1,0 +1,81 @@
+﻿id_cliente;nombre;edad;genero_preferido
+0;Ana García;13;Drama
+1;Juan Ortiz;25;Comedia
+2;Andrea López;38;Acción
+3;Luisa Torres;19;Terror
+4;Rafael Flores;34;Drama
+5;Laura Sánchez;30;Aventura
+6;Diego Ramírez;31;Comedia
+7;Daniela Pérez;13;Ciencia ficción
+8;Eduardo González;43;Terror
+9;Brenda Hernández;23;Suspense
+10;Gabriel Jiménez;25;Animación
+11;Ana Isabel Vega;40;Drama
+12;Daniel Castillo;31;Fantasía
+13;María Ramírez;35;Acción
+14;Andrés Hernández;19;Romance
+15;Alejandra Ortiz;25;Misterio
+16;Oscar Flores;28;Comedia
+17;Paulina Torres;37;Thriller
+18;Santiago Sánchez;20;Drama
+19;Gabriela López;36;Acción
+20;Juanita Sánchez;22;Comedia
+21;Carmen Gutiérrez;25;Drama
+22;José García;29;Acción
+23;Ana María Fernández;33;Ciencia ficción
+24;Carlos González;28;Aventura
+25;Laura Pérez;14;Terror
+26;Manuel Martínez;30;Animación
+27;Sofía Hernández;15;Misterio
+28;Luisa Díaz;16;Suspense
+29;Fernando Ruiz;18;Documental
+30;Claudia Ortiz;19;Musical
+31;Mario Flores;30;Western
+32;Paula Álvarez;27;Histórico
+33;Ricardo Castro;40;Fantasía
+34;Valentina Torres;20;Cine negro
+35;Santiago Vega;20;Policiaco
+36;Mariana Vargas;27;Guerra
+37;Antonio Jiménez;35;Romántico
+38;Ana González;14;Superhéroes
+39;Mauricio Rodríguez;35;Deportivo
+40;Ana Lucía Pérez;13;Biográfico
+41;Samuel González;27;Infantil
+42;Ana Sofía Hernández;36;Catástrofes
+43;Raúl Ramírez;37;Road movie
+44;Lucía Martínez;38;Parodia
+45;Eduardo Gómez;37;Espionaje
+46;Maribel Reyes;29;Épico
+47;Juan Carlos Castro;30;Erótico
+48;Andrea Moreno;16;Gore
+49;Jorge López;33;Drama
+50;Andrea Vásquez;31;Comedia
+51;Eduardo Torres;38;Acción
+52;María González;30;Terror
+53;Luis Ramírez;24;Drama
+54;Sofía Gómez;27;Aventura
+55;Rafaela Flores;33;Comedia
+56;Martín Martínez;38;Ciencia ficción
+57;Ana Isabel Hernández;35;Terror
+58;Ricardo Jiménez;23;Suspense
+59;Ana Laura García;23;Animación
+60;Samuel Flores;37;Drama
+61;Isabel Cruz;21;Fantasía
+62;Diego Sánchez;15;Acción
+63;Ana Paula Ortiz;18;Romance
+64;Julio César Pérez;14;Misterio
+65;Alejandra Aguilar;28;Comedia
+66;David López;40;Thriller
+67;Carolina Torres;21;Drama
+68;Juan José Hernández;13;Acción
+69;Gabriela Pérez;40;Comedia
+70;Javier Martínez;38;Drama
+71;Daniela Romero;39;Acción
+72;Daniel González;21;Ciencia ficción
+73;Claudia Vargas;15;Aventura
+74;Rodrigo Castro;25;Terror
+75;María Elena Jiménez;29;Animación
+76;Mauricio Pérez;29;Misterio
+77;Ana María Hernández;34;Suspense
+78;Pablo Rodríguez;21;Documental
+79;Ana Cecilia García;32;Musical

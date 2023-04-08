@@ -1,0 +1,10 @@
+En caso de error de seguridad al cargar datos, buscar my.ini en la raiz del disco duro con el siguiente comando en un cmd o terminal
+En windows
+dir /s my.ini
+
+En linux
+mysqld --help --verbose | grep my.ini
+
+Luego editar el archivo en la seccion 'secure-file-priv="ruta/de/su/MySQL"' y dejarlo vacio las comillas "". Luego, podra realizar la carga de datos sin problemas. 
+
+Tener en cuenta que debe guardar la ruta anterior luego de realizar la carga de datos por seguridad

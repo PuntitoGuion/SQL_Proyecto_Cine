@@ -1,0 +1,36 @@
+﻿id_pelicula;nombre;genero;fecha_estreno;id_cine
+0;Mortal Kombat;Acción/Fantasía;2021-04-08;10
+1;Incredibles 2;Animación/Aventura;2018-06-05;14
+2;Bohemian Rhapsody ; Musical/Drama;2018-10-24;10
+3;A Quiet Place Part II ;Terror/Suspense;2021-05-27;11
+4;The Fate of the Furious;Acción/Aventura;2017-04-14;3
+5;Wonder Woman;Superhéroes/Acción;2017-06-15;4
+6;The Croods;Animación/Aventura;2013-03-22;4
+7;Jumanji: The Next Level;Acción/Aventura;2019-12-13;14
+8;Blade Runner 2049;Ciencia ficción/Thriller;2017-10-06;14
+9;Dune;Ciencia ficción/Acción;2021-09-22;8
+10;Arrival;Ciencia ficción/Drama;2016-11-11;13
+11;Sing;Animación/Música;2016-12-21;5
+12;Rogue One: A Star Wars Story;Ciencia ficción/Acción;2016-12-16;3
+13;The Lion King;Animación/Aventura;2019-07-19;3
+14;Black Panther;Superhéroes/Acción;2018-02-16;2
+15;La La Land;Musical/Drama;2016-12-16;8
+16;Baby Driver;Acción/Crimen;2017-06-28;1
+17;Deadpool 2;Superhéroes/Acción;2018-05-18;11
+18;Spider-Man: No Way Home;Superhéroes/Acción;2021-12-15;11
+19;Moonlight;Drama;2016-12-02;12
+20;Jumanji: Welcome to the Jungle;Acción/Aventura;2017-12-20;1
+21;It;Terror/Drama;2017-09-08;12
+22;Cruella;Comedia/Drama;2021-05-28;14
+23;The Matrix Resurrections;Ciencia ficción/Acción;2021-12-22;2
+24;Wonder Woman 1984;Superhéroes/Acción;2020-12-16;14
+25;The Invisible Man;Terror/Thriller;2020-02-28;9
+26;Shang-Chi and the Legend of the Ten Rings;Superhéroes/Acción;2021-09-03;13
+27;Godzilla vs. Kong;Ciencia ficción/Acción;2021-03-24;7
+28;No Time to Die;Espionaje/Acción;2021-10-08;9
+29;Black Widow;Superhéroes/Acción;2021-07-09;1
+30;Thor: Ragnarok;Superhéroes/Acción;2017-10-27;4
+31;Avengers: Endgame;Superhéroes/Acción;2019-04-26;1
+32;Split;Terror/Thriller;2017-01-20;7
+33;The Dark Knight;Acción/Drama;2008-07-18;14
+34;Avengers: Infinity War;Superhéroes/Acción;2018-04-27;12
