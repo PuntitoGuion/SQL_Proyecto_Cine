@@ -1,7 +1,11 @@
-
 # Proyecto Cine SQL (CoderHouse)
 ## **Entregas**
 
+ - ***Presentación de script de creación de vistas (Entrega 5)***
+	- scripts/ScriptVist + Ferrari.sql
+	
+	En el script, se da una breve descripción de lo que hace cada vista
+##
  - ***Script de inserción de datos (Entrega 5)***
 	- scripts/ScriptIns + Ferrari.sql
 	- datos/cines.csv
@@ -9,7 +13,7 @@
 	- datos/peliculas.csv
 	- datos/horarios.csv
 	- datos/entradas.csv
-	- datos/PosibleError.txt
+	- errorCargaDatos.txt
 	
 	Tener en cuenta que debe editar el .sql para ingresar la ruta correcta del archivo
 ##
