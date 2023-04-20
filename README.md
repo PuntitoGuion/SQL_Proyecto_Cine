@@ -5,12 +5,12 @@
 	- scripts/Funciones + Ferrari.sql
 	
 	En el script se indica la funcion y su uso con un ejemplo
-
+##
  - ***Script de creación de stored procedures (Entrega 6)***
 	- scripts/Formato + Ferrari.sql
 	
 	En el script se indica la funcionalidad de cada Stored Procedures
-
+##
  - ***Presentación de script de creación de vistas (Entrega 5)***
 	- scripts/ScriptVist + Ferrari.sql
 	
