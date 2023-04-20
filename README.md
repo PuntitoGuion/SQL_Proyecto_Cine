@@ -1,6 +1,11 @@
 # Proyecto Cine SQL (CoderHouse)
 ## **Entregas**
 
+ - ***Presentar en formato SQL (Entrega 6)***
+	- scripts/Funciones + Ferrari.sql
+	
+	En el script se indica la funcion y su uso con un ejemplo
+
  - ***Script de creación de stored procedures (Entrega 6)***
 	- scripts/Formato + Ferrari.sql
 	
