@@ -47,7 +47,7 @@ GROUP BY cliente, c.edad
 ORDER BY entradas_compradas DESC, cliente, c.edad;
 
 -- Generos populares ordenados por la preferencia de los clientes
-CREATE VIEW vw_top_generosvw_cant_pel_cinecine AS
+CREATE VIEW vw_top_generos AS
 SELECT c.genero_preferido as genero, COUNT(*) as cantidad_generos
 FROM entradas as e
 JOIN clientes as c
