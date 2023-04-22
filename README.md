@@ -1,6 +1,11 @@
 # Proyecto Cine SQL (CoderHouse)
 ## **Entregas**
 
+ - ***Script de creación de triggers (Entrega 7)***
+	- scripts/Triggers + Ferrari.sql
+	
+	En el script se indican los triggers y su funcion con un ejemplo
+##
  - ***Presentar en formato SQL (Entrega 6)***
 	- scripts/Funciones + Ferrari.sql
 	
