@@ -14,8 +14,6 @@ SELECT nombre, lugar, cant_salas
 FROM cines
 WHERE id_cine = salas_cine_max();
 
-DELIMITER //
-
 -- Con esta funcion, podemos obtener los datos de una entrada de cine
 DELIMITER //
 CREATE FUNCTION obtener_datos_entrada(id_entrada INT)
