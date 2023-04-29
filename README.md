@@ -1,6 +1,14 @@
 # Proyecto Cine SQL (CoderHouse)
 ## **Entregas**
 
+ - ***Sentencias del sublenguaje TCL (Entrega 8)***
+	- ./TCL + Ferrari.pdf
+	
+##
+ - ***Implementación de sentencias (Entrega 8)***
+	- ./Sentencias + Ferrari.pdf
+	
+##
  - ***Segunda entrega de tu Proyecto final (Entrega 7)***
 	- ./Entrega2 + Ferrari.pdf
 	
