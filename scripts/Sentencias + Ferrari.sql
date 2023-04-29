@@ -1,5 +1,4 @@
 USE Mysql;
-SELECT * FROM USER WHERE user LIKE 'onlyread@localhost';
 
 -- Se crea el usuario para permisos de solo lectura
 CREATE USER 'onlyread@localhost' IDENTIFIED BY 'unaContrasenia';
