@@ -1,3 +1,5 @@
+-- Se crean usuarios y permisos --
+
 USE Mysql;
 
 -- Se crea el usuario para permisos de solo lectura

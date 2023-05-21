@@ -1,3 +1,5 @@
+-- Se crean los triggers -- 
+
 -- Se crea una tabla de registro de las entradas compradas por fecha
 CREATE TABLE log_entradas(
 id_log INT PRIMARY KEY AUTO_INCREMENT,
@@ -41,4 +43,4 @@ END //
 DELIMITER ;
 
 -- Un ejemplo de uso
-DELETE FROM clientes WHERE id_cliente = 34
+DELETE FROM clientes WHERE id_cliente = 34;

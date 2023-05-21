@@ -1,3 +1,4 @@
+-- Se realizan transacciones --
 USE cinema;
 
 -- Hacemos una TRANSACTION para eliminar registros y luego recuperarlos
@@ -21,18 +22,18 @@ SAVEPOINT sinAgregados;
 
 -- Se agregan primeros 4 registros seguido de un SAVEPOINT
 INSERT INTO clientes(id_cliente, nombre, edad, genero_preferido) VALUES
-(79,'Sergio Sola',32,"Comedia"),
-(80,'Julián Ferrari',24,"Ciencia ficción"),
-(81,'Rogelio Vidal',28,"Terror"),
-(82,'Valeria Tamanti',26,"Aventura");
+(80,'Sergio Sola',32,"Comedia"),
+(81,'Julián Ferrari',24,"Ciencia ficción"),
+(82,'Rogelio Vidal',28,"Terror"),
+(83,'Valeria Tamanti',26,"Aventura");
 SAVEPOINT primerosCuatro;
 
 -- Se agregan otros 4 registros más seguido de un SAVEPOINT
 INSERT INTO clientes(id_cliente, nombre, edad, genero_preferido) VALUES
-(83,'Ignacio Juri',44,"Misterio"),
-(84,'Eduardo Lescinskas',49,"Animación"),
-(85,'Andrea García',54,"Drama"),
-(86,'Leonela Fernandez',18,"Comedia");
+(84,'Ignacio Juri',44,"Misterio"),
+(85,'Eduardo Lescinskas',49,"Animación"),
+(86,'Andrea García',54,"Drama"),
+(87,'Leonela Fernandez',18,"Comedia");
 SAVEPOINT otrosCuatro;
 SELECT * FROM clientes; -- Verifico los agregados
 

@@ -1,3 +1,4 @@
+-- Se crean Stored Procedures -- 
 USE cinema;
 -- ordenar necesita 3 parametros, el primero es el nombre de la tabla, seguido por el nombre de la columna y por ultimo si es ASC o DESC
 DELIMITER // 
@@ -82,5 +83,5 @@ BEGIN
 END //
 DELIMITER ;
 
+-- Este es un ejemplo donde se quiere estrenar una pelicula, con su genero, su fecha de estreno, el cine y el horario inicial de la función
 CALL estrenar ('Super Mario Bros','Aventura/Comedia', '2023-04-06',1,'18:30:00');
--- Este es un ejemplo donde se quiere estrenar la pelicula de John Wick 4, con su genero, su fecha de estreno, el cine y el horario inicial de la función

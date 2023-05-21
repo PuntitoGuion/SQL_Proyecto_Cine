@@ -1,3 +1,5 @@
+-- Se crean las funciones --
+
 -- Con esta funcion, obtengo el id del cine que tiene mayor cantidad de salas
 DELIMITER $$
 CREATE FUNCTION salas_cine_max() RETURNS INT

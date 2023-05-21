@@ -1,8 +1,18 @@
 # Proyecto Cine SQL (CoderHouse)
+
+
+## **Entregas**
+
+ - ***Entrega de tu Proyecto final (Entrega 10)***
+	- ./scripts/BBDD proyecto final.sql
+	- ./scripts/Diagrama ER.png
+	- ./Idea + Ferrari.pdf
+
+	
 ## **Entregas**
 
  - ***Backup de la base de datos (Entrega 9)***
-	- ./Backup + Ferrari.sql
+	- ./scripts/Backup + Ferrari.sql
 	
 	Se hace backup de las  tablas principales:
 	- cines
@@ -13,15 +23,15 @@
 	
 ##
  - ***Sentencias del sublenguaje TCL (Entrega 8)***
-	- ./TCL + Ferrari.sql
+	- ./scripts/TCL + Ferrari.sql
 	
 ##
  - ***Implementación de sentencias (Entrega 8)***
-	- ./Sentencias + Ferrari.sql
+	- ./scripts/Sentencias + Ferrari.sql
 	
 ##
  - ***Segunda entrega de tu Proyecto final (Entrega 7)***
-	- ./Entrega2 + Ferrari.pdf
+	- ./scripts/Entrega2 + Ferrari.pdf
 	
 ##
  - ***Script de creación de triggers (Entrega 7)***

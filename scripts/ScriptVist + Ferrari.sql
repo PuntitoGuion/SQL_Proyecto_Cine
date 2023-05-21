@@ -1,3 +1,5 @@
+-- Se crean las vistas --
+
 -- Peliculas que posee un cine
 CREATE VIEW vw_cant_pel_cine AS
 SELECT  c.nombre as cine, c.lugar, COUNT(*) as cantidad_peliculas
@@ -53,4 +55,4 @@ FROM entradas as e
 JOIN clientes as c
 ON c.id_cliente = e.id_cliente
 GROUP BY c.genero_preferido
-ORDER BY cantidad_generos DESC
+ORDER BY cantidad_generos DESC;
