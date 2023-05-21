@@ -31,7 +31,7 @@
 	
 ##
  - ***Segunda entrega de tu Proyecto final (Entrega 7)***
-	- ./scripts/Entrega2 + Ferrari.pdf
+	- ./Entrega2 + Ferrari.pdf
 	
 ##
  - ***Script de creación de triggers (Entrega 7)***
