@@ -5,7 +5,7 @@
 
  - ***Entrega de tu Proyecto final (Entrega 10)***
 	- ./scripts/BBDD proyecto final.sql
-	- ./scripts/Diagrama ER.png
+	- ./Diagrama ER.png
 	- ./Idea + Ferrari.pdf
 
 ##
