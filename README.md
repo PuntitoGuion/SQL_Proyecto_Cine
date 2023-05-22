@@ -8,9 +8,7 @@
 	- ./scripts/Diagrama ER.png
 	- ./Idea + Ferrari.pdf
 
-	
-## **Entregas**
-
+##
  - ***Backup de la base de datos (Entrega 9)***
 	- ./scripts/Backup + Ferrari.sql
 	
